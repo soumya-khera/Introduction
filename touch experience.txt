@@ -1,0 +1,1 @@
+I've taken 2 university level courses in Java, as well as participated in Codepath's Android App Development course, where I used APIs to create mockups of 3 popular apps (MovieDB, Twitter, Instagram), as well as a to-do list and recipe app in Java.
